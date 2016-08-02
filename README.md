@@ -11,3 +11,4 @@ Please let me know what you think (and what doesn't work, of course).
 
 c9 is giving me trouble with my jQuery file. I will test once uploaded.
 
+8/2/16 - Site is uploaded but the collapsed navbar button isn't working as the menu is not expanding when the button is clicked.
